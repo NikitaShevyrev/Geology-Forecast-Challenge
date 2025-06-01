@@ -1,0 +1,1 @@
+from .lstm_with_attention import ParallelLSTMWithAttention
