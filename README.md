@@ -10,6 +10,7 @@ The solution combines:
 
 ---
 
+<pre>
 ## 📂 Repository Structure
 GEOLOGY-FORECAST-CHALLENGE/
 ├── augmentations/
@@ -43,6 +44,7 @@ GEOLOGY-FORECAST-CHALLENGE/
 ├── README.md                     ← README file
 ├── requirements.txt              ← Python dependencies
 └── train.py                      ← Training pipeline with data preparation
+</pre>
 
 ---
 
@@ -77,6 +79,7 @@ weights/model_fold_0.pt ... model_fold_4.pt
 ```
 
 Expected Folder Layout to run `train.py`:
+<pre>
 GEOLOGY-FORECAST-CHALLENGE/
 ├── train.py
 ├── weights/
@@ -89,6 +92,7 @@ GEOLOGY-FORECAST-CHALLENGE/
 │           ├── test.csv
 │           ├── sample_submission.csv
 │           └── train_raw/
+</pre>
 
 ---
 
@@ -103,10 +107,12 @@ input/geology-forecast-challenge-open/data/sample_submission.csv
 ```
 
 2. Place the 5 trained model weights in:
+<pre>
 weights/
 ├── model_fold_0.pt
 ├── ...
 └── model_fold_4.pt
+</pre>
 
 3. Run Inference:
 ```bash
