@@ -1,6 +1,13 @@
-# Geology Forecast Challenge — Solution by Nikita Shevyrev
+# 🥈 2nd Place Solution — Geology Forecast Challenge
 
 This repository contains the complete solution for the [Kaggle Geology Forecast Challenge](https://www.kaggle.com/competitions/geology-forecast-challenge).
+
+## 🏁 Final Results
+
+| Leaderboard | Rank | Score |
+|-------------|------|-------|
+| Public      | 🥇 1st | -44.48916 |
+| Private     | 🥈 2nd | -12.37277 |
 
 The solution combines:
 - 📈 A powerful LSTM + Multi-head Attention architecture
