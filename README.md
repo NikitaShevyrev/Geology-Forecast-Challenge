@@ -17,8 +17,8 @@ The solution combines:
 
 ---
 
-<pre>
 ## 📂 Repository Structure
+<pre>
 GEOLOGY-FORECAST-CHALLENGE/
 ├── augmentations/
 │   ├── __init__.py
